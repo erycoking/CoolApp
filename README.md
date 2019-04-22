@@ -1,2 +1,2 @@
-# CoolApp
+# Cool Action Bar
 Having fun
